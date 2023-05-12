@@ -4,6 +4,7 @@ public class Main{
         p1.addExtraToppings();
         p1.addExtraCheese();
         p1.addTakeway();
+        System.out.println("Kuchtoh");
        System.out.println(p1.getBill());
     }
 }
